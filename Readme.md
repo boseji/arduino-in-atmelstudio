@@ -12,4 +12,5 @@ Arduino Bootloader, this is the solution to all thoes looking out.
 Althouh there have been many tutorials but I though having my own would not
 hurt.
 
-## This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]{http://creativecommons.org/licenses/by-sa/4.0/}.
+
+*This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-sa/4.0/).*
