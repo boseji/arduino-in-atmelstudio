@@ -9,7 +9,7 @@ But for projects that still want to use the advantage of Arduino framework
 and do not want to limit themselves with the contrains of the Arduino IDE or
 Arduino Bootloader, this is the solution to all thoes looking out.
 
-Although there have been many tutorials but I though having my own would not
+Although there have been many tutorials but I thought having my own would not
 hurt.
 
 Any one can download this and use it as a baseline to start doing some serious debugging
